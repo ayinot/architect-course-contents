@@ -13,9 +13,9 @@ According to the World Economic Forum, 18% of the world's GDP will be on Blockch
 - Develop/Architect use cases to solve problems using blockchain
 
 ###  Course structure
-- [Week1](####Week1)
-- [Week2](####Week2)
-- [Week3](####Week3)
+- [Week1](#week1)
+- [Week2](#week2)
+- [Week3](#week3)
 
 #### Week1
 
